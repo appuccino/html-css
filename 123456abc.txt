@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transiional//EN" "http://www.w3.org/TR/xhtml/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"xml:lang="en"
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	123456abc
+	<b>abc</b>
+	<i>abc</i>
+	<u>abc</u>
+	<s>abc</s>
+	x<sup>2</sup>
+	y<sub>1</sub>
+	<br/>
+	abc
+	<br/>
+	<font size="5" color="red" face="黑体">大家好</font>!很<font size="7" color="blue">高兴</font>认识大家。
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"xml:lang="en"
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>属性选择器</title>
+	<style type="text/css">
+		img[title][id]{width:200px;height:100px;border:1px solid red;}
+	</style>
+</head>
+<body>
+	<img src="" alt="" title="image01" id="tag01"/>
+	<img src="" alt="" title="image02" class="tag02"/>
+	<p>我是段落</p>
+	<h1>我是标题</h1>
+</body>
+</html>
